@@ -1,4 +1,6 @@
 # pemrograman-web
-Nama: Syakiroh 
+Nama: Syakiroh
+
 Nim: 1324049
+
 Ini adalah aplikasi berbasis web, pengembangan sistem penjualan barang
